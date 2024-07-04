@@ -28,6 +28,7 @@ University of Utah
 
 ## webpage
 To find my CV, read about my research projects, and access workshop materials:  
-[https://brenna-c-kelly.github.io](https://brenna-c-kelly.github.io)
+[https://brenna-c-kelly.github.io](https://brenna-c-kelly.github.io)  
+
 [<img src="assets/img/webpage.png" width=600/>](https://brenna-c-kelly.github.io)
 
