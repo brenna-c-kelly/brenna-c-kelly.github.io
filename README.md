@@ -24,7 +24,7 @@ University of Utah
 •	Industrial chemical pollution • Health disparities • Climate change, heat, wildfires
 
 ## webpage
-To read about my research projects, access teaching materials, and find my CV:  
+To find my CV, read about my research projects, and access workshop materials:  
 [https://brenna-c-kelly.github.io](https://brenna-c-kelly.github.io)
 <p align="left">
 <img src="assets/img/webpage.png" width=600>
