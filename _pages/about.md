@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Utah</a>. Population Health Sciences | School of the Environment, Society & Sustainability | Obstetrics & Gynecology
+subtitle: <a href='#'>University of Utah</a>. Population Health Sciences |  
+Obstetrics & Gynecology | School of the Environment, Society & Sustainability
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Population Health Science</p>
     <p>295 Chipeta Way</p>
     <p>Salt Lake City, Utah 84108</p>
 
