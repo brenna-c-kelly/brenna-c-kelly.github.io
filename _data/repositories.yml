@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - brenna-c-kelly
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - brenna-c-kelly/masters-thesis
+  - brenna-c-kelly/epa-noncompliance
+  - brenna-c-kelly/aqs-racial-inequity
+  - brenna-c-kelly/spatial-data-science
+  - brenna-c-kelly/aq-pregnancy
