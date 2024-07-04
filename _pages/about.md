@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Utah</a>. **Population Health Sciences** | Obstetrics & Gynecology | School of the Environment, Society & Sustainability
+subtitle: <a href='#'>University of Utah</a>. Population Health Sciences | Obstetrics & Gynecology | School of the Environment, Society & Sustainability
 
 profile:
   align: right
@@ -27,3 +27,6 @@ I am a PhD student at the University of Utah studying machine learning methods t
 `Applications.` My main focus is on exposure science, or the study of human contact with environmental factors and the health effects of these exposures. Currently, I am studying mixtures of air pollutants and their effects on pregnancy outcomes. More broadly, I am interested in pollution, health and exposure inequities, and climate change.
 
 `Methods.` For my dissertation, I am using a combination of statistical and deep learning methods for estimating exposure and the effects of exposures. I am interested in methods for spatiotemporal analysis, as well as bias and missingness. Scalable computing is essential for a lot of my work. As an epidemiologist, I'm particularly interested in causal methods and interpretable machine learning — e.g., what is the effect of an exposure, and why does our model give us this result?
+
+**Current positions**
+I am a research assistant in the Department of Obstetrics & Gynecology and School of the Environment, Society & Sustainability, and I am also spending my summer as a data science intern at Oak Ridge National Laboratory.
