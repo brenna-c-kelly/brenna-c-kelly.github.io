@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Utah</a>. Population Health Sciences |  
-Obstetrics & Gynecology | School of the Environment, Society & Sustainability
+subtitle: <a href='#'>University of Utah</a>. Population Health Sciences >
+| Obstetrics & Gynecology | School of the Environment, Society & Sustainability
 
 profile:
   align: right
