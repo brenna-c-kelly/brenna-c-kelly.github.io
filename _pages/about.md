@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD student at the University of Utah studying machine learning methods to analyze the effects of air pollution on maternal health outcomes. My background is in population health, geography, and data science, and I am interested in "data science problems" along the environmental exposure pathway:
-* Are there better ways to better predict or estimate an exposure?
-* How should we model an exposure?
+* Are there better ways to predict or estimate an exposure?
+* How should we model exposures?
 * What is the effect of the exposure?
 * How do we translate this into public health practice and/or policy?
 
