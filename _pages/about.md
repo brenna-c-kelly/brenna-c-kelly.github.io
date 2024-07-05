@@ -29,4 +29,4 @@ I am a PhD student at the University of Utah studying machine learning methods t
 `Methods.` For my dissertation, I am using a combination of statistical and deep learning methods for estimating exposure and the effects of exposures. I am interested in spatiotemporal analysis, as well as understanding (and remedying) bias and missingness. Scalable computing is essential for a lot of my work. As an epidemiologist, I'm particularly interested in causal methods and interpretable machine learning.
 
 **Current positions**  
-I am a research assistant in the Department of Obstetrics & Gynecology and School of the Environment, Society & Sustainability, and I am also spending my summer as a data science intern at Oak Ridge National Laboratory.
+I am a research assistant in the Department of Obstetrics & Gynecology and School of the Environment, Society & Sustainability. I am also spending my summer as a data science intern at Oak Ridge National Laboratory.
