@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Utah studying machine learning methods to analyze the effects of air pollution on maternal health outcomes. My background is in population health, geography, and data science, and I am interested in advancing research along the environmental exposure pathway using data science:
+I am a PhD student at the University of Utah studying machine learning methods to analyze the effects of air pollution on maternal health outcomes. My background is in population health, geography, and data science, and I am interested in advancing research along the environmental exposure pathway using data science:  
 * Are there better ways to predict or estimate an exposure?
 * How should we model exposures?
 * What is the effect of the exposure?
