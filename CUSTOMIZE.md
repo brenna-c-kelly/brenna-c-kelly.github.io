@@ -33,7 +33,7 @@ The project is structured as follows, focusing on the main components that you w
     └── 📄 _variables.scss: variables used in the SASS files
 ```
 
-### Author annotation
+### Author annotation  
 
 In publications, the author entry for yourself is identified by string array `scholar:last_name` and string array `scholar:first_name` in [\_config.yml](_config.yml). For example, if you have the following entry in your [\_config.yml](_config.yml):
 
